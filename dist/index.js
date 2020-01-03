@@ -1,0 +1,10 @@
+import _hintedName from "/style/aa";
+let a = 1;
+import Table from "qd-ui/lib/packages/table";
+import "qd-ui/lib/packages/table/style.css";
+import Button from "qd-ui/lib/packages/button";
+import "qd-ui/lib/packages/button/style.css";
+import Table from "qd-ui/lib/packages/table";
+import "qd-ui/lib/packages/table/style.css";
+import Button from "qd-ui/lib/packages/button";
+import "qd-ui/lib/packages/button/style.css";

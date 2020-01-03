@@ -1,0 +1,15 @@
+{
+  "plugins": [
+    // ["./plg.js", {"name": "perfectyang"}],
+    [
+      "./plg", //这是你开发的plugin名称，包名命名为babel-plugin-xxxx
+      {
+        // 这些属性可以随意，最后可以在opts里面访问得到
+        "libraryName": "qd-ui",
+        "modulePath": "/lib/packages/{moduleName}",
+        "styleSuffix": "css",
+        "stylePath": "/lib/packages/{moduleName}/style.{styleSuffix}"
+      }
+    ]
+  ]
+}
